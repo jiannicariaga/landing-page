@@ -1,3 +1,3 @@
-# ajax-project
+# landing-page
 
-A dynamic HTML, CSS, and JavaScript solo project.
+My personal landing page.
